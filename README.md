@@ -32,3 +32,29 @@ AI/ML enthusiast with a passion for building data-driven solutions and automatin
 ---
 
 *Let's connect and collaborate on innovative AI/ML solutions!*
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hiralchudasama/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiralchudasam&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiralchudasam&layout=compact&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=hiralchudasam&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://hits.sh/github.com/hiralchudasam.svg?style=flat-square&label=Profile%20Views&color=0088cc&logo=github"/>
+</p>
+
